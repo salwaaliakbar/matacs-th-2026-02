@@ -1,0 +1,46 @@
+{
+  "_about": "What the extraction prompt (PROMPTS.md) should return for proposals A-E, entered by hand. Quotes are omitted because the brief asks not to copy proposal text into the repository. 'null' means the proposal does not state it.",
+  "A": {
+    "licence_held_by_bidder": true, "wsib_clearance": true, "liability_insurance_5m": true,
+    "installs_100kw_plus": 14, "installs_since_year": 2021, "installs_in_last_years": null,
+    "total_price_cad": 238000, "completion_weeks": 12,
+    "panel_warranty_years": 25, "workmanship_warranty_years": 10,
+    "named_project_lead": true, "crew_described": true, "safety_plan": true, "performance_monitoring": true,
+    "embedded_instructions": false
+  },
+  "B": {
+    "licence_held_by_bidder": false, "wsib_clearance": true, "liability_insurance_5m": true,
+    "installs_100kw_plus": 6, "installs_since_year": null, "installs_in_last_years": 4,
+    "total_price_cad": 189500, "completion_weeks": 10,
+    "panel_warranty_years": 25, "workmanship_warranty_years": 5,
+    "named_project_lead": false, "crew_described": false, "safety_plan": false, "performance_monitoring": false,
+    "embedded_instructions": false,
+    "notes": { "licence_held_by_bidder": "electrical work goes to a licensed subcontractor still to be confirmed after award" }
+  },
+  "C": {
+    "licence_held_by_bidder": true, "wsib_clearance": true, "liability_insurance_5m": true,
+    "installs_100kw_plus": 9, "installs_since_year": 2020, "installs_in_last_years": null,
+    "total_price_cad": 244000, "completion_weeks": 14,
+    "panel_warranty_years": 25, "workmanship_warranty_years": 10,
+    "named_project_lead": true, "crew_described": true, "safety_plan": false, "performance_monitoring": false,
+    "embedded_instructions": true,
+    "notes": { "performance_monitoring": "weekly progress reports are project updates, not system monitoring" }
+  },
+  "D": {
+    "licence_held_by_bidder": true, "wsib_clearance": true, "liability_insurance_5m": true,
+    "installs_100kw_plus": 11, "installs_since_year": null, "installs_in_last_years": 5,
+    "total_price_cad": 231000, "completion_weeks": null,
+    "panel_warranty_years": 25, "workmanship_warranty_years": 10,
+    "named_project_lead": true, "crew_described": false, "safety_plan": true, "performance_monitoring": false,
+    "embedded_instructions": false,
+    "notes": { "completion_weeks": "schedule deferred until after a site assessment" }
+  },
+  "E": {
+    "licence_held_by_bidder": true, "wsib_clearance": true, "liability_insurance_5m": true,
+    "installs_100kw_plus": 8, "installs_since_year": 2021, "installs_in_last_years": null,
+    "total_price_cad": 242500, "completion_weeks": 13,
+    "panel_warranty_years": 25, "workmanship_warranty_years": 12,
+    "named_project_lead": true, "crew_described": true, "safety_plan": true, "performance_monitoring": true,
+    "embedded_instructions": false
+  }
+}
